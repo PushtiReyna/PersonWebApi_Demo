@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vwADRPS8ZHI2S8++JNbE0KsDZ6ca9xfXwvrvGauuU2pjWn3SzIJI43ySWIFUFlw4hImVjfCkj+n4dFGKMucHug==",
+  "success": true,
+  "projectFilePath": "D:\\project\\PersonWebApi_Demo\\PersonWebApi_Demo\\PersonApi\\DTO\\DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reyna\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Reyna\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
